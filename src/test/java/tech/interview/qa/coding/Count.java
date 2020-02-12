@@ -1,4 +1,4 @@
-package tech.interview.qa.general;
+package tech.interview.qa.coding;
 
 import java.util.Arrays;
 
